@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Wordcounter-react/precache-manifest.9e7017c2a3eee5b1a56fa5d67d0d5548.js"
+  "/Wordcounter-react/precache-manifest.747cd86336ed747c252292efb555d7c2.js"
 );
 
 workbox.clientsClaim();
